@@ -1,7 +1,6 @@
 hello world!
-<<<<<<< HEAD
 whatever
-=======
+
 HELLO WORLD!
 Hello! this is AMBER
->>>>>>> b5e1795336f26a29b1f44afd271bbcce2b1daae7
+
